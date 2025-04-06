@@ -35,5 +35,14 @@ Clean the data by:
 * Top 5 categories.
 # Cleaned Data set:
 So, the cleaned data Set after data modelling &Bdata Cleaning : <a href="https://github.com/SandeshReddyGS/Accenture-Data-Analytics-Visualization-Internship-/blob/main/Cleaned%20dataset.xlsx">Cleaned dataset<a/>
-
+# Task - 3
+## Data Visualizatio and Storytelling:
+### Make the Powerpoint Presentation as per the given template.
+### Charts involved:
+* Pie chart
+* Bar chart
+* Powerpoint Presentation : <a href="https://github.com/SandeshReddyGS/Accenture-Data-Analytics-Visualization-Internship-/blob/main/PowerPoint%20presentation%20Accenture.pptx">PPT</a>
+# Task - 4
+## Presnt to Client 
+Present your powerpoint presentation to the client and deliver the insights of your analysis.
 

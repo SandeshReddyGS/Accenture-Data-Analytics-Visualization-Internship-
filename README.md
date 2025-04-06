@@ -12,7 +12,7 @@ A data analyst sits between the business and the data.
 * Client's Problem that Accenture is tasked to address : The client has reached a massive scale within recent years and does not have the resources internally to handle it.
 * Three requirements that Accenture is tasked to fulfill : Audit of big data practice, recommendations for IPO, analysis of popular content.
 ## Accenture Project Team :
-- <a href="https://github.com/SandeshReddyGS/Accenture-Data-Analytics-Visualization-Internship-/blob/main/Internal%20stakeholder%20chart.pdf">
+- <a href="https://github.com/SandeshReddyGS/Accenture-Data-Analytics-Visualization-Internship-/blob/main/Internal%20stakeholder%20chart.pdf">Team Members<a/>
 ## Task for Data Analyst:
 Analysis of sample data sets with visualizations to understand the popularity of different content categories.
 In short, the client wanted to see “An analysis of their content categories showing the top 5 categories with the largest popularity”.
@@ -30,19 +30,19 @@ Clean the data by:
 * <a href="https://github.com/SandeshReddyGS/Accenture-Data-Analytics-Visualization-Internship-/blob/main/Reactions.xlsm">Reactions</a>
 # Data Modelling:
 ## Create a final data set by merging 3 tables 
-## End result will be one Spreadsheet
+End result will be one Spreadsheet
 * A Cleaned dataset
 * Top 5 categories.
 # Cleaned Data set:
-So, the cleaned data Set after data modelling &Bdata Cleaning : <a href="https://github.com/SandeshReddyGS/Accenture-Data-Analytics-Visualization-Internship-/blob/main/Cleaned%20dataset.xlsx">Cleaned dataset<a/>
+So, the cleaned data Set after data modelling & data Cleaning : <a href="https://github.com/SandeshReddyGS/Accenture-Data-Analytics-Visualization-Internship-/blob/main/Cleaned%20dataset.xlsx">Cleaned dataset<a/>
 # Task - 3
-## Data Visualizatio and Storytelling:
+## Data Visualization and Storytelling:
 ### Make the Powerpoint Presentation as per the given template.
 ### Charts involved:
 * Pie chart
 * Bar chart
 * Powerpoint Presentation : <a href="https://github.com/SandeshReddyGS/Accenture-Data-Analytics-Visualization-Internship-/blob/main/PowerPoint%20presentation%20Accenture.pptx">PPT</a>
 # Task - 4
-## Presnt to Client 
+## Present to Client 
 Present your powerpoint presentation to the client and deliver the insights of your analysis.
 
